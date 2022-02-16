@@ -1,2 +1,2 @@
 ## Practice
-Here is my code practice.
+From https://github.com/netcan/recipes
